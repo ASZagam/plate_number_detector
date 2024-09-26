@@ -1,0 +1,5 @@
+YOLO
+numpy
+cv2
+streamlit
+ultralytics
