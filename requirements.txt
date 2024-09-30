@@ -1,5 +1,5 @@
 YOLO
 numpy
-cv2
+opencv-contrib-python-headless
 streamlit
 ultralytics
