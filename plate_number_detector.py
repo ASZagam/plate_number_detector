@@ -1,7 +1,7 @@
 #import the necessary libraries
 from ultralytics import YOLO
 import cv2
-import cvzone
+# import cvzone
 import numpy as np
 import streamlit as st
 
