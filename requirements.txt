@@ -1,2 +1,5 @@
+YOLO
+numpy
+cv2
 streamlit
-pandas
+ultralytics
