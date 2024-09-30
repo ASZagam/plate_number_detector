@@ -61,7 +61,7 @@ if upload_image:
                 cv2.putText(img, f"{class_name[int(clas)]} {conf:.2f}", (x1,y1),cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
                 
         st.image(img, "Detected image....", use_column_width=True)
-        cv2.destroyAllWindows()
+        # cv2.destroyAllWindows()
 
     # while True:
     # #show the detected image
