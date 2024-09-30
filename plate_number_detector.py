@@ -8,7 +8,7 @@ import streamlit as st
 
 st.write("PLATE NUMBER DETECTION APP USING YOLO MODEL")
 #load the fine tune model
-model = YOLO("best (1).pt")
+model = YOLO("best (2).pt")
 image_placeholder = st.empty()
 
 
